@@ -1,0 +1,59 @@
+.bgclr{
+    background-color: green
+}
+.formbg{
+  
+}
+.formstyle{
+
+    z-index: 5;
+    top: 0px;
+    background-color: #31171da6;
+    padding: 32px;
+    
+
+}
+.widthform{
+    width: 100%;
+}
+.margitp{
+    margin-top: 112px;
+}
+.fontsizet{
+font-size: 34px;
+line-height: 1.4em;
+font-weight: 100;
+color: white}
+.btrtxt{
+    white-space: normal;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border-radius: 8px;
+    width: -webkit-fill-available;
+    display: inline !important;
+}
+#content {
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.mask{
+    background-color: #0000006e;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 20px
+}
+.fontsz{
+    font-weight: 100
+}
+.main-nav > li.is-active > a, .main-nav > li.current-menu-item > a, .main-nav > li:hover > a, .main-nav > li > a:hover {
+    color: #ecebeb;
+}
+
+.main-nav .link-txt .txt {
+    position: relative;
+    z-index: 2;
+    color: white;
+}
